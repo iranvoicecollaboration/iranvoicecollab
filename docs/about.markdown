@@ -16,5 +16,7 @@ You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
+<a href="{{ site.github.repository_url }}/edit/docs/docs/{{ page.path }}">Edit this page!</a>
+
 
 [jekyll-organization]: https://github.com/jekyll

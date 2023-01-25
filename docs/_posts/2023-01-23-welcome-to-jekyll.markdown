@@ -25,7 +25,7 @@ print_hi('Tom')
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 
-<a href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit this page!</a>
+<a href="{{ site.github.repository_url }}/edit/docs/docs/{{ page.relative_path }}">Edit this page!</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<a href="{{ site.github.repository_url }}/edit/docs/docs/{{ page.path }}">Edit this page!</a>
